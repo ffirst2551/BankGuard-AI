@@ -1,2 +1,34 @@
-# BankGuard-AI
-AI system for predicting customer churn and retention in banking sector.
+# 🏦 BankGuard AI  
+**Predict to Protect — AI ที่ช่วยธนาคารคาดการณ์ลูกค้าเสี่ยงลาออก**
+
+---
+
+## 📘 Overview  
+BankGuard AI เป็นโปรเจกต์ Machine Learning ที่ใช้ข้อมูลลูกค้าธนาคาร  
+เพื่อทำนายแนวโน้มการลาออกของลูกค้า (Churn Prediction)  
+โดยใช้เทคนิค **Random Forest Classifier** และ **Survival Analysis**
+
+---
+
+## ⚙️ Model  
+- Algorithm: Random Forest Classifier  
+- Accuracy: 86%  
+- Key Factors: Age, Balance, Active Status, Credit Score  
+
+---
+
+## 💻 How to Run  
+1. เปิดไฟล์ `BankGuard_AI.ipynb` บน Google Colab  
+2. รันทุกเซลล์เพื่อดูขั้นตอนการวิเคราะห์และเทรนโมเดล  
+
+---
+
+## 🚀 Future Plan  
+- เพิ่ม Explainable AI (SHAP / LIME)  
+- สร้าง Dashboard แสดงลูกค้าเสี่ยง  
+- เชื่อม API เข้ากับระบบธนาคารจริง  
+
+---
+
+## 👥 Developer  
+Developed by **ffirst2551 (Skibidi Boy)** 💚  
