@@ -10,14 +10,14 @@ BankGuard AI เป็นโปรเจกต์ Machine Learning ที่ใ�
 
 ---
 
-## ⚙️ Model  
+## Model  
 - Algorithm: Random Forest Classifier  
 - Accuracy: 86%  
 - Key Factors: Age, Balance, Active Status, Credit Score  
 
 ---
 
-## 💻 How to Run  
+## 💻 How to Run KUBB
 1. เปิดไฟล์ `BankGuard_AI.ipynb` บน Google Colab  
 2. รันทุกเซลล์เพื่อดูขั้นตอนการวิเคราะห์และเทรนโมเดล  
 
@@ -26,8 +26,6 @@ BankGuard AI เป็นโปรเจกต์ Machine Learning ที่ใ�
 ## 🚀 Future Plan  
 - เพิ่ม Explainable AI (SHAP / LIME)  
 - สร้าง Dashboard แสดงลูกค้าเสี่ยง  
-- เชื่อม API เข้ากับระบบธนาคารจริง  
-
 ---
 
 ## 👥 Developer  
